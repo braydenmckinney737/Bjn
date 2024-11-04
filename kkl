@@ -21,4 +21,4 @@ def clean_gedcom(file_path):
             cleaned_file.write(str(element))
 
 # Assuming 'your_gedcom_file.ged' is your file
-clean_gedcom('your_gedcom_file.ged')
+clean_gedcom('your_gedcom_file.ged')p
